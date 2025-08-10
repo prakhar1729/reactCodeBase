@@ -1,0 +1,25 @@
+{
+  "name": "prakharreact",
+  "version": "1.0.0",
+  "description": "this is my react project which will give me a job.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhar1729/reactCodeBase.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Prakhar Chandel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakhar1729/reactCodeBase/issues"
+  },
+  "homepage": "https://github.com/prakhar1729/reactCodeBase#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
