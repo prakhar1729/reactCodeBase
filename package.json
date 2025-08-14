@@ -2,7 +2,7 @@
   "name": "prakharreact",
   "version": "1.0.0",
   "description": "this is my react project which will give me a job.",
-  "main": "App.js",
+  "source": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +21,10 @@
   "homepage": "https://github.com/prakhar1729/reactCodeBase#readme",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1.0.72",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
