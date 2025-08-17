@@ -4,6 +4,8 @@
   "description": "this is my react project which will give me a job.",
   "source": "App.js",
   "scripts": {
+    "start" : "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -26,5 +28,8 @@
     "@anthropic-ai/claude-code": "^1.0.72",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
-  }
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
 }
